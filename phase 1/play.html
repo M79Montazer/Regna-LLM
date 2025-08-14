@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>LLM Generate Test</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 2rem; max-width: 600px; margin: auto; }
+    textarea { width: 100%; height: 100px; }
+    pre { background: #f4f4f4; padding: 1rem; white-space: pre-wrap; }
+    button { padding: 0.5rem 1rem; font-size: 1rem; }
+  </style>
+</head>
+<body>
+
+  <h1>Test Your LLM API</h1>
+
+  <label for="prompt">Enter Prompt:</label>
+  <textarea id="prompt" placeholder="Hello there!"></textarea>
+  <br /><br />
+
+  <button id="generateBtn">Generate Response</button>
+
+  <h2>Model Response:</h2>
+  <pre id="response">Waiting for input…</pre>
+
+  <script>
+    // 1. Set your ngrok URL here (no trailing slash)
+    const API_URL = "https://afdf025a9e01.ngrok-free.app/generate";
+
+    document.getElementById("generateBtn").addEventListener("click", async () => {
+      const promptText = document.getElementById("prompt").value.trim();
+      if (!promptText) {
+        alert("Please enter a prompt!");
+        return;
+      }
+
+      document.getElementById("response").textContent = "Generating…";
+
+      try {
+        const res = await fetch(API_URL+"?prompt="+promptText, {
+          method: "GET",
+          //headers: { "Content-Type": "application/json" },
+          //body: JSON.stringify({ prompt: promptText})
+        });
+        
+        if (!res.ok) {
+          throw new Error(`HTTP ${res.status}: ${res.statusText}`);
+        }
+
+        const data = await res.json();
+        document.getElementById("response").textContent = data.response;
+      
+      } catch (err) {
+        document.getElementById("response").textContent = "Error: " + err.message;
+      }
+    });
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "temp", "temp\temp.csproj", "{C973F8C9-7757-4552-9F23-CE799AAEA4CB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		Regna_RPG\Regna_RPG\Regna_RPG\js\plugins\SimpleLLM.js = Regna_RPG\Regna_RPG\Regna_RPG\js\plugins\SimpleLLM.js
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Launcher", "Launcher\Launcher.csproj", "{B8C0D525-4725-41A6-91E4-815570E683A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C973F8C9-7757-4552-9F23-CE799AAEA4CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C973F8C9-7757-4552-9F23-CE799AAEA4CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C973F8C9-7757-4552-9F23-CE799AAEA4CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C973F8C9-7757-4552-9F23-CE799AAEA4CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8C0D525-4725-41A6-91E4-815570E683A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C0D525-4725-41A6-91E4-815570E683A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C0D525-4725-41A6-91E4-815570E683A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C0D525-4725-41A6-91E4-815570E683A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B49D2CC4-AC32-4FB4-8451-4D5FAE757F6F}
+	EndGlobalSection
+EndGlobal

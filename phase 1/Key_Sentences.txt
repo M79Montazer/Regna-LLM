@@ -1,0 +1,614 @@
+The player is appealing to a council to delay an execution.
+The player is appealing to a ghost for guidance through a crypt.
+The player is appealing to a priest for divine intervention.
+The player is appealing to a village elder to stop a blood feud.
+The player is asking a banshee for the location of a lost item.
+The player is asking a bard to spread tales of their heroism.
+The player is asking a barkeep to eavesdrop on a group of spies.
+The player is asking a battlefield scavenger for a fallen comrade’s belongings.
+The player is asking a beast tamer for help with a wild companion.
+The player is asking a beast trainer to handle a captured creature.
+The player is asking a beggar for directions in an unfamiliar city.
+The player is asking a bell tower keeper to delay the town's alarm.
+The player is asking a boatman for passage down a treacherous river.
+The player is asking a caravan master for extra provisions.
+The player is asking a carpenter to construct a hidden compartment.
+The player is asking a cart driver to smuggle them across a border.
+The player is asking a cartographer for a map to forbidden ruins.
+The player is asking a castle servant for gossip about the royal family.
+The player is asking a celestial being to grant them a vision.
+The player is asking a centaur scout for directions through enchanted woods.
+The player is asking a child to retrieve something from a locked room.
+The player is asking a child who witnessed a crime to tell what they saw.
+The player is asking a chronomancer to reverse a moment of time.
+The player is asking a court jester to pass a secret message.
+The player is asking a courtesan to gather pillow talk secrets.
+The player is asking a criminal to call off a hit.
+The player is asking a crystal reader about a lost friend.
+The player is asking a cultist about a forbidden ritual.
+The player is asking a cursed knight to lead them to a hidden vault.
+The player is asking a cursed mirror to reveal a hidden location.
+The player is asking a cursed noble for permission to enter their estate.
+The player is asking a cursed oracle to share a forbidden vision.
+The player is asking a diplomat to leak confidential talks.
+The player is asking a dragon cultist for safe passage.
+The player is asking a dragon to spare a nearby village.
+The player is asking a druid for safe passage through the forest.
+The player is asking a druid to curse a battlefield.
+The player is asking a dryad for safe passage through enchanted woods.
+The player is asking a dungeon warden to delay an execution.
+The player is asking a dwarven artisan to forge a mythical blade.
+The player is asking a fae for a favor—and its price.
+The player is asking a farmer about strange lights in their field.
+The player is asking a fortune-teller for guidance before a heist.
+The player is asking a frost giant for passage through the tundra.
+The player is asking a gate guard to let them through during curfew.
+The player is asking a ghost ship captain for a voyage.
+The player is asking a ghost to possess someone on their behalf.
+The player is asking a ghost to reveal how they died.
+The player is asking a goblin merchant for information on a stolen heirloom.
+The player is asking a gravekeeper about unusual burials.
+The player is asking a gravekeeper to exhume a specific body.
+The player is asking a harbormaster to delay a departing ship.
+The player is asking a hermit for advice about a prophetic dream.
+The player is asking a hermit for lore about a lost artifact.
+The player is asking a historian about an ancient prophecy.
+The player is asking a hunter for rare beast parts.
+The player is asking a hunter to track a mysterious beast in the woods.
+The player is asking a hunter to track something unnatural.
+The player is asking a jailor to deliver a message to a prisoner.
+The player is asking a librarian for access to restricted magical tomes.
+The player is asking a local about missing townsfolk.
+The player is asking a local farmer about strange lights in the woods.
+The player is asking a local gossip to uncover a noble’s secret.
+The player is asking a local witch to lift a curse.
+The player is asking a locksmith to open a sealed family crypt.
+The player is asking a magical artificer to imbue an item.
+The player is asking a magical beast for a ride through dangerous lands.
+The player is asking a magical beast to let them pass unscathed.
+The player is asking a miner to collapse a tunnel entrance.
+The player is asking a minstrel for information overheard at court.
+The player is asking a monk to hide them from pursuers.
+The player is asking a moon priestess to delay an eclipse ritual.
+The player is asking a mountain hermit for wisdom.
+The player is asking a mysterious cloaked figure for help in a ritual.
+The player is asking a necromancer to interrogate a corpse.
+The player is asking a noble child about something they overheard.
+The player is asking a noble for political asylum.
+The player is asking a noble’s steward for an urgent audience.
+The player is asking a priest to perform a forbidden ritual.
+The player is asking a priest to resurrect a fallen comrade.
+The player is asking a priest to sanctify a cursed item.
+The player is asking a ranger to lead them to an ancient ruin.
+The player is asking a reanimated corpse to speak one last truth.
+The player is asking a reclusive healer to cure a magical disease.
+The player is asking a reclusive vampire lord for safe passage through his domain.
+The player is asking a relic-keeper to unlock a sealed chamber.
+The player is asking a retired adventurer to be their guide.
+The player is asking a retired adventurer to relive a past battle.
+The player is asking a retired knight about a forgotten war.
+The player is asking a retired knight to train them.
+The player is asking a royal chef for a poison antidote.
+The player is asking a sailor about sightings of sea monsters.
+The player is asking a scholar to help forge a new law.
+The player is asking a scholar to identify a mysterious relic.
+The player is asking a scholar to translate ancient runes.
+The player is asking a scout for reports on monster movements.
+The player is asking a sentient painting for a lost memory.
+The player is asking a sentient tree for ancient knowledge.
+The player is asking a servant for dirt on their master.
+The player is asking a ship captain for passage across a dangerous sea.
+The player is asking a smith to make custom armor.
+The player is asking a spy to defect.
+The player is asking a stablehand to tamper with a rival's horse.
+The player is asking a stablemaster for a stolen horse.
+The player is asking a storyteller for the origin of a local legend.
+The player is asking a tailor to sew a hidden pocket.
+The player is asking a talking animal for directions.
+The player is asking a tanner for enchanted hide.
+The player is asking a thief to teach them how to pick locks.
+The player is asking a tower librarian for access to a restricted section.
+The player is asking a traveling merchant to smuggle contraband inside his cart.
+The player is asking a vampire lord for information about undead activity.
+The player is asking a veteran soldier for combat training.
+The player is asking a wandering monk about an ancient prophecy.
+The player is asking a warlord for peace in exchange for tribute.
+The player is asking a winged courier to deliver a message in secret.
+The player is asking a witch to enchant their weapon.
+The player is asking a wizard for help deciphering an ancient rune.
+The player is asking an alchemist for an undetectable poison.
+The player is asking an ancient tree spirit for guidance.
+The player is asking an enchanted mirror to reveal a hidden truth.
+The player is asking an enchanted statue for advice.
+The player is asking an old flame for shelter and secrecy.
+The player is asking an old rival to honor a forgotten pact.
+The player is asking an oracle to interpret a divine omen.
+The player is asking for help transporting contraband.
+The player is attempting to awaken a sleeping golem guarding a gate.
+The player is attempting to blackmail a merchant with a dark secret.
+The player is attempting to bless a battlefield before war breaks out.
+The player is attempting to bluff their way into a royal wedding.
+The player is attempting to break a friend out of a dungeon without alerting the guards.
+The player is attempting to buy a cursed relic from a shadowy vendor.
+The player is attempting to buy off a witness before a trial.
+The player is attempting to buy rare poison from an alchemist.
+The player is attempting to calm a panicked innkeeper after a fight.
+The player is attempting to capture a pixie with the help of a druid.
+The player is attempting to charm a courtier into leaking royal gossip.
+The player is attempting to cross a guarded bridge without papers.
+The player is attempting to deceive a guard with a fake identity.
+The player is attempting to dismantle a magical trap with help.
+The player is attempting to eavesdrop on a private meeting.
+The player is attempting to forge a fake royal document with a scribe.
+The player is attempting to get a spy to switch allegiances.
+The player is attempting to hire a dwarven engineer for a siege.
+The player is attempting to hire a locksmith for a quiet job.
+The player is attempting to hire a ship captain for a dangerous sea voyage.
+The player is attempting to learn a secret password from a drunken noble.
+The player is attempting to recruit a retired adventurer for one last quest.
+The player is attempting to repair a magical contract.
+The player is attempting to retrieve a blessing from a reluctant cleric.
+The player is attempting to sell monster parts to a fearful apothecary.
+The player is attempting to smuggle a wounded companion into the city.
+The player is attempting to smuggle contraband past a border checkpoint.
+The player is attempting to sneak a message into a locked tower.
+The player is attempting to steal a key from a distracted noble.
+The player is attempting to sway the city council’s vote.
+The player is attempting to win a sacred relic in a rigged dice game.
+The player is attempting to win over a hostile faction.
+The player is bargaining with a demon disguised as a scholar.
+The player is bargaining with a demon for forbidden knowledge.
+The player is bargaining with a fae merchant in the twilight market.
+The player is bargaining with a genie bound to an ancient relic.
+The player is bargaining with a lich for knowledge of a forgotten spell.
+The player is bargaining with a sentient weapon for cooperation.
+The player is bargaining with a shady fence to identify a stolen item.
+The player is bargaining with a vampire for sanctuary.
+The player is bargaining with an exiled prince for troops.
+The player is bartering a soulstone for passage into cursed lands.
+The player is bartering with a beast tamer for a rare mount.
+The player is bartering with a merchant who suspects the item is stolen.
+The player is bartering with a traveling circus for information.
+The player is bartering with a traveling merchant for a magical trinket.
+The player is begging a blacksmith to repair their weapon overnight.
+The player is begging a caravan not to leave without them.
+The player is begging a fire mage to stop an erupting volcano.
+The player is begging a gate guard to let them through before sundown.
+The player is begging a jailer to allow a final visit to a prisoner.
+The player is begging a merchant caravan for a ride out of town.
+The player is begging a midwife to save a dying mother.
+The player is begging a noble not to send troops to war.
+The player is blackmailing a noble with scandalous letters.
+The player is bribing a census clerk to change a name.
+The player is bribing a city planner for secret tunnel maps.
+The player is bribing a cook to poison a banquet dish.
+The player is bribing a customs officer to let them pass unchecked.
+The player is bribing a customs officer to smuggle in contraband.
+The player is bribing a gravedigger to hide a corpse.
+The player is bribing a healer to lie about someone’s injuries.
+The player is bribing a herald to misreport an announcement.
+The player is bribing a herald to spread false news.
+The player is bribing a jailer for access to an imprisoned informant.
+The player is bribing a jailer to release a prisoner.
+The player is bribing a noble’s scribe for access to sealed documents.
+The player is bribing a prison guard to smuggle in a map.
+The player is bribing a royal courier to delay a message.
+The player is bribing a tax collector to overlook an illegal shipment.
+The player is bribing a theater troupe to stage a fake scandal.
+The player is bribing a tournament judge to rig the outcome.
+The player is bribing a tournament official to rig a match.
+The player is bribing a town crier to spread misinformation.
+The player is challenging a champion gladiator to gain respect.
+The player is challenging a town guard to single combat over an insult.
+The player is coercing a scribe to falsify a royal decrees
+The player is confronting a bard who witnessed a crime.
+The player is confronting a black market fence about stolen goods.
+The player is confronting a changeling pretending to be a friend.
+The player is confronting a corrupt tax collector.
+The player is confronting a disgraced general about an old betrayal.
+The player is confronting a mage who created forbidden constructs.
+The player is confronting a masked figure suspected of murder.
+The player is confronting a mayor who’s hoarding food during a famine.
+The player is confronting a noble about a land dispute.
+The player is confronting a potion vendor about a dangerous brew.
+The player is confronting a puppetmaster controlling villagers.
+The player is confronting a rival thief about a botched job.
+The player is confronting a spy pretending to be a noble.
+The player is confronting a tavern owner about a missing companion.
+The player is confronting the innkeeper about a guest who vanished.
+The player is convincing a barmaid to pass along a secret message.
+The player is convincing a bartender to reveal a secret entrance.
+The player is convincing a clerk to delay a shipment of supplies.
+The player is convincing a courier to deliver a dangerous message.
+The player is convincing a cursed animal to follow them.
+The player is convincing a cursed mirror spirit to speak.
+The player is convincing a farmer to part with their best livestock.
+The player is convincing a ferryman to sail during a storm.
+The player is convincing a guard to “misplace” a key.
+The player is convincing a haunted house to let them in.
+The player is convincing a jailbreaker to leave someone behind.
+The player is convincing a jailer to deliver a message to a prisoner.
+The player is convincing a librarian to unlock a sealed tome.
+The player is convincing a local noble to fund their expedition.
+The player is convincing a mercenary to abandon a contract mid-mission.
+The player is convincing a reluctant apprentice to betray their master.
+The player is convincing a reluctant soldier to disobey orders.
+The player is convincing a reluctant witness to testify against a crime lord.
+The player is convincing a retired assassin to take one last job.
+The player is convincing a warlock to teach them forbidden magic.
+The player is demanding a necromancer release captured souls.
+The player is demanding a toll keeper let them pass without paying.
+The player is demanding an artifact from a reluctant guardian.
+The player is demanding an audience with the queen without an invitation.
+The player is demanding answers from a shapeshifter in disguise.
+The player is demanding entry into a sacred ritual.
+The player is demanding justice from a biased magistrate.
+The player is demanding justice from a corrupt guard captain.
+The player is demanding sanctuary from an enemy stronghold.
+The player is demanding tribute from a fearful village.
+The player is demanding tribute from a frightened village elder.
+The player is disguising themselves as a guard with tailor help.
+The player is flattering a vain wizard to gain their trust.
+The player is forcing a noble to provide resources under duress.
+The player is haggling over passage aboard a smuggler's ship.
+The player is haggling with a greedy blacksmith over custom armor.
+The player is haggling with a relic trader over a fake artifact.
+The player is having false rumors spread to mislead a rival faction.
+The player is hiring a bard to secretly insult a political rival.
+The player is hiring a local guide for the Feywild.
+The player is hiring a smuggler to transport them past a blockade.
+The player is hiring a warlock to trace a soul.
+The player is hiring a witch to brew a truth serum.
+The player is hiring an illusionist to fake a public spectacle.
+The player is impersonating a courier to infiltrate a manor.
+The player is inquiring about bounties from a city watch captain.
+The player is intercepting a letter and rewriting its contents.
+The player is interrogating a captured bandit for information.
+The player is interrogating a captured thief.
+The player is interrogating a wounded enemy soldier.
+The player is intimidating a rival to leave town.
+The player is looking for someone to smuggle cursed items out of the city.
+The player is looking for someone who speaks an ancient tongue.
+The player is negotiating a land purchase with a greedy landlord.
+The player is negotiating a truce between warring guilds.
+The player is negotiating access to a forbidden mountain path.
+The player is negotiating peace terms during a battlefield parley.
+The player is negotiating safe passage with a border guard.
+The player is negotiating terms for a blood oath.
+The player is negotiating the return of a stolen relic with a grave robber.
+The player is negotiating with a bounty hunter for a prisoner’s release.
+The player is negotiating with a demon bound in a ritual circle.
+The player is negotiating with a ferryman to cross during a storm.
+The player is negotiating with a fire spirit for passage.
+The player is negotiating with a forest spirit to lift a curse.
+The player is negotiating with a ghost for answers to a murder.
+The player is negotiating with a local lord for military support.
+The player is negotiating with a werewolf pack leader for safe travel.
+The player is offering a bounty for the capture of a known outlaw.
+The player is offering a bribe to falsify an arrest report.
+The player is offering a bribe to rewrite city records.
+The player is offering a captured monster in exchange for a reward.
+The player is offering a cursed item to an unsuspecting trader.
+The player is offering a dangerous favor to gain a pirate captain’s trust.
+The player is offering a dark pact to a being in a mirror.
+The player is offering a deal to a jailed noble in exchange for secrets.
+The player is offering a hitman gold to eliminate a political figure.
+The player is offering a magical favor in exchange for information.
+The player is offering a peace treaty to a rival clan chieftain.
+The player is offering a rare gem to a dragon for safe passage.
+The player is offering a relic to a spirit in exchange for peace.
+The player is offering a relic to an order of monks in exchange for sanctuary.
+The player is offering a seer coin to lie about a vision.
+The player is offering ancient coins to a historian for translation help.
+The player is offering coin for details about a treasure map.
+The player is offering coin for dirt on a high priest.
+The player is offering coin to a courier for discreet delivery.
+The player is offering coin to a street urchin for information.
+The player is offering enchanted goods to a wary trader.
+The player is offering gold to a jailer to release a prisoner.
+The player is offering gold to reopen a sealed mine.
+The player is offering ingredients for a weather-changing ritual.
+The player is offering protection in exchange for loyalty.
+The player is offering protection to a frightened merchant in exchange for coin.
+The player is offering protection to a town under bandit threat.
+The player is offering protection to an innkeeper in exchange for information.
+The player is offering rare ingredients to a potion crafter for a custom brew.
+The player is offering rare spices to a noble chef for a favor.
+The player is offering stolen goods in exchange for information.
+The player is offering to clear a dungeon in exchange for land.
+The player is offering to clear out a monster in exchange for land.
+The player is offering to duel a baron to resolve a feud.
+The player is offering to duel a knight for honor.
+The player is offering to duel a knight in exchange for a favor.
+The player is offering to fund a scholar’s research for hidden truths.
+The player is offering to pay a monk for access to ancient scrolls.
+The player is offering to pay a necromancer to raise the dead.
+The player is offering to pay a sailor for passage to a restricted island.
+The player is offering to trade ancient lore for enchanted items.
+The player is offering tribute to a forest spirit for safe travel.
+The player is offering tribute to a local river deity.
+The player is offering tribute to a mountain spirit for safe travel.
+The player is ordering a retreat from a doomed battle.
+The player is paying a bard to spread tales of their heroism.
+The player is paying a bard to spy under cover of performance.
+The player is paying a guard to plant false evidence.
+The player is persuading a cursed knight to join their cause.
+The player is persuading a garrison chef to poison food.
+The player is persuading a local to guide them through enemy territory.
+The player is persuading a militia scout to reveal troop movements.
+The player is persuading a reluctant farmer to shelter fugitives.
+The player is persuading a reluctant mage to cast a dangerous spell.
+The player is persuading a reluctant witness to come to court.
+The player is persuading a retired adventurer to join one last quest.
+The player is persuading a scribe to falsify a royal decree.
+The player is persuading a suspicious midwife to reveal a secret birth.
+The player is persuading a town elder to support a rebellion.
+The player is planting a forged letter on a rival.
+The player is planting false evidence in a rival’s quarters.
+The player is pleading for mercy before a secret tribunal.
+The player is pleading with a banshee to allow safe passage through her lair.
+The player is pleading with a celestial not to pass judgment.
+The player is pleading with a cursed statue to open a sealed door.
+The player is pleading with a cursed villager for the truth.
+The player is pleading with a druid to stop a ritual.
+The player is pleading with a dryad to heal a cursed grove.
+The player is pleading with a dryad to save a dying grove.
+The player is pleading with a ghost for guidance in a haunted ruin.
+The player is pleading with a lich to return a stolen soul.
+The player is pleading with a retired mage to teach them a forbidden spell.
+The player is pleading with a seer to reveal a hidden future.
+The player is pleading with an ancient tree to release a trapped spirit.
+The player is pleading with an executioner for mercy.
+The player is pressing a tavern patron for tales of a haunted forest.
+The player is questioning a bard about a forbidden song.
+The player is questioning a child who speaks in cryptic visions.
+The player is questioning a drunk beggar who may know too much.
+The player is questioning a frightened stable boy about a theft.
+The player is questioning a werewolf about a series of murders.
+The player is recruiting a disgraced noble to act as a double agent.
+The player is recruiting a mercenary group for a dungeon raid.
+The player is recruiting a scout for a dangerous expedition.
+The player is recruiting a scribe to document their travels.
+The player is recruiting a stablehand to act as a lookout.
+The player is recruiting a thief for a heist.
+The player is recruiting an old enemy for mutual gain.
+The player is recruiting assassins for a high-risk strike.
+The player is recruiting someone to follow a suspect.
+The player is recruiting villagers to defend against a goblin raid.
+The player is recruiting volunteers for a suicide mission.
+The player is replacing a sacred relic with a forgery.
+The player is requesting a disguise kit from a rogue.
+The player is requesting a duel before a public crowd.
+The player is requesting a dwarven mason to secretly dig a tunnel under the city wall.
+The player is requesting a favor from a bard with a grudge.
+The player is requesting a favor from a magical talking animal.
+The player is requesting a healer mid-battle.
+The player is requesting a healer’s aid without the coin to pay.
+The player is requesting a loan from a greedy moneylender.
+The player is requesting a map from an old cartographer who distrusts outsiders.
+The player is requesting a merfolk emissary to escort them through an underwater tunnel.
+The player is requesting a night’s shelter at a xenophobic monastery.
+The player is requesting a room in a haunted inn.
+The player is requesting a sacred blessing before a major battle.
+The player is requesting access to the city’s underground tunnels.
+The player is requesting aid from a harpy matron in exchange for a favor.
+The player is requesting an alchemist to change their appearance.
+The player is requesting an audience with a high priest during a sacred rite.
+The player is requesting backup from a rival faction.
+The player is requesting entry into a city under lockdown.
+The player is requesting entry into a sacred grove.
+The player is requesting forged lineage papers.
+The player is requesting forgiveness from a wronged cleric.
+The player is requesting help breaking into an ancient crypt.
+The player is requesting help from a golem with ancient orders.
+The player is requesting help from a ranger to avoid patrols.
+The player is requesting help from a retired adventuring party.
+The player is requesting help from an imprisoned fae queen.
+The player is requesting magical aid from a hermit wizard.
+The player is requesting parley with an enemy warlord.
+The player is requesting permission from a tribal chieftain to cross sacred land.
+The player is requesting sanctuary in a sacred temple.
+The player is requesting sanctuary in a temple during a manhunt.
+The player is requesting that a courier delay a message.
+The player is requesting the aid of a reluctant oracle.
+The player is requesting the enchantment of their voice.
+The player is requesting the help of a retired assassin.
+The player is requesting the return of a stolen soul gem.
+The player is requesting the services of a cursed tattooist.
+The player is requesting to see a prisoner held in secret.
+The player is sabotaging a rival’s supply line with hired help.
+The player is seeking a bard to perform a song that discredits a rival.
+The player is seeking a bodyguard for a dangerous journey.
+The player is seeking a gravedigger’s help for a midnight burial.
+The player is seeking a healer to cure a mysterious poison.
+The player is seeking a map to the undercity tunnels.
+The player is seeking a matchmaker to arrange a marriage for political gain.
+The player is seeking a retired assassin to take one last contract.
+The player is seeking a safehouse after a failed heist.
+The player is seeking a witch’s help to hex a rival.
+The player is seeking clues from a town crier’s gossip.
+The player is seeking directions to a hidden temple.
+The player is seeking healing from a suspicious village herbalist.
+The player is seeking help tracking a magical beast.
+The player is seeking information from a fence about stolen goods.
+The player is seeking information from a spy in a shady tavern.
+The player is seeking shelter from a storm in a suspicious inn.
+The player is seeking the blessing of a nature spirit for a harvest.
+The player is seeking to hire a musician for a distraction.
+The player is seeking to retrieve a memory sealed by magic.
+The player is smuggling weapons into a rebel district.
+The player is sneaking into a crypt to retrieve a buried item.
+The player is sneaking into a guarded tomb and distracting the sentry.
+The player is sneaking into a noble’s estate posing as a servant.
+The player is sneaking into a rival guild’s hideout.
+The player is tampering with records in a city archive.
+The player is threatening a bard who knows too much.
+The player is threatening a corrupt guard captain for answers.
+The player is threatening a cowardly spy to reveal their employer.
+The player is threatening a merchant suspected of lying about wares.
+The player is threatening a rival adventurer to stay out of their quest.
+The player is threatening a slaver for the release of captives.
+The player is threatening a traitor with exposure.
+The player is threatening a treasurer to release wartime funds.
+The player is threatening to expose a noble’s secret unless paid.
+The player is trying to adopt a magical creature from a grumpy keeper.
+The player is trying to adopt a street orphan.
+The player is trying to avoid a magical duel by diplomacy.
+The player is trying to awaken an ancient golem.
+The player is trying to awaken an ancient guardian from slumber.
+The player is trying to blackmail a noble with a love letter.
+The player is trying to break a curse with help from a reluctant hedge witch.
+The player is trying to break a fae pact.
+The player is trying to bribe a city guard to ignore a crime.
+The player is trying to bribe a corrupt city guard.
+The player is trying to buy a fake identity from a forger.
+The player is trying to buy a forged deed from a forger.
+The player is trying to buy a room in a full inn during a storm.
+The player is trying to buy back a pawned family heirloom.
+The player is trying to buy entry into a secret thieves’ guild.
+The player is trying to buy illegal magical ingredients.
+The player is trying to buy restricted books from a secretive librarian.
+The player is trying to buy silence from a loose-lipped servant.
+The player is trying to buy time from a bounty hunter sent to kill them.
+The player is trying to calm a crowd after a public execution.
+The player is trying to calm a frightened noble child.
+The player is trying to calm a mob blaming them for a local disaster.
+The player is trying to calm an angry mob after a failed summoning.
+The player is trying to charm a noble’s attendant into revealing secrets.
+The player is trying to close a portal with the help of a hedge mage.
+The player is trying to convince a dragon cultist to switch allegiances.
+The player is trying to convince a dragon to lend them a scale.
+The player is trying to convince a farmer to shelter them from pursuing soldiers.
+The player is trying to convince a frightened mayor to take action.
+The player is trying to convince a golem to disobey its master.
+The player is trying to convince a golem to let them pass.
+The player is trying to convince a hunter to guide them through dangerous woods.
+The player is trying to convince a jailed thief to give up a secret.
+The player is trying to convince a mercenary band to switch sides.
+The player is trying to convince a mercenary not to take a contract.
+The player is trying to convince a militia captain to stand down.
+The player is trying to convince a retired advisor to return to court.
+The player is trying to convince a rival adventuring party to stand down.
+The player is trying to convince a rival gang leader to broker peace.
+The player is trying to convince a rival guildmaster to break an alliance.
+The player is trying to convince a scared witness to testify.
+The player is trying to convince a shopkeeper to open after hours.
+The player is trying to convince a suspicious alchemist to sell a rare potion.
+The player is trying to convince a talking animal to guide them.
+The player is trying to convince a tavern owner to give them free lodging.
+The player is trying to convince a tax collector to “lose” a ledger.
+The player is trying to convince a town crier to announce false news.
+The player is trying to convince an old miner to reveal a secret cave.
+The player is trying to deceive a scribe into forging royal documents.
+The player is trying to defuse a barroom brawl.
+The player is trying to defuse a tense standoff between guards and townsfolk.
+The player is trying to delay an execution by distracting the crowd.
+The player is trying to delay enemy reinforcements.
+The player is trying to dispel a magical ward with a local hedge-witch.
+The player is trying to enter a dreamer’s mind through ritual.
+The player is trying to enter a sealed vault without alerting guards.
+The player is trying to expose a corrupt town official.
+The player is trying to find out who last visited a hidden shrine.
+The player is trying to find someone who can disable magical traps.
+The player is trying to find someone who knows the old druidic tongue.
+The player is trying to forge a peace between rival monasteries.
+The player is trying to forge a peace between two warring clans.
+The player is trying to frame a rival for treason.
+The player is trying to free a chained beast without alerting guards.
+The player is trying to gain access to a secret meeting of rebels.
+The player is trying to gain an audience with a reclusive scholar.
+The player is trying to gain entrance to a secret thieves’ guild.
+The player is trying to gain entry to a cursed tomb.
+The player is trying to gain entry to a masked ball under a false name.
+The player is trying to gain favor with a foreign ambassador.
+The player is trying to gain passage through a guarded mountain pass.
+The player is trying to gain passage through a troll’s toll bridge.
+The player is trying to gain permission from an elemental guardian.
+The player is trying to gather a team for a tomb raid.
+The player is trying to get a bard to stop spreading rumors.
+The player is trying to get a blacksmith to forge a weapon from forbidden materials.
+The player is trying to get a cursed ring appraised by a jeweler.
+The player is trying to get a drunk informant to talk.
+The player is trying to get a gravedigger to exhume a corpse.
+The player is trying to get a hunter to provide exotic pelts.
+The player is trying to get a letter smuggled across enemy lines.
+The player is trying to get a lockpick past a suspicious guard.
+The player is trying to get a noble to sponsor their expedition.
+The player is trying to get a pickpocket to return what they stole.
+The player is trying to get a seer to reveal a vision they refused to share.
+The player is trying to get a tinker to repair a magical device.
+The player is trying to get a witch to lift a family curse.
+The player is trying to hire a dreamwalker for a prophetic vision.
+The player is trying to hire a forger to create false documents.
+The player is trying to hire a scout to lead them through a haunted forest.
+The player is trying to hire a scout to watch a guarded tower.
+The player is trying to hire a spy to infiltrate a rival faction.
+The player is trying to hire a thief to steal a noble’s signet ring.
+The player is trying to hire an exorcist to cleanse a haunted chapel.
+The player is trying to impersonate a minor noble.
+The player is trying to infiltrate a guild posing as a new recruit.
+The player is trying to infiltrate a noble banquet.
+The player is trying to intimidate a bandit into revealing their hideout.
+The player is trying to join a cult under false pretenses.
+The player is trying to join a sacred order without completing the rites.
+The player is trying to learn how to bypass a dungeon's traps.
+The player is trying to learn the location of a hidden vault.
+The player is trying to locate a long-lost heirloom.
+The player is trying to locate an escaped prisoner.
+The player is trying to prevent a prophecy from being fulfilled.
+The player is trying to prevent an execution by pleading with the executioner.
+The player is trying to prove their innocence to a suspicious judge.
+The player is trying to prove their lineage to a suspicious archivist.
+The player is trying to provoke a rival into a duel.
+The player is trying to purchase a stolen artifact from a black market dealer.
+The player is trying to purchase illegal magic from a disguised wizard.
+The player is trying to rally troops before a siege.
+The player is trying to rally villagers against an approaching army.
+The player is trying to recruit a disgraced knight to join their cause.
+The player is trying to recruit a disgraced scholar for a research mission.
+The player is trying to rent horses from a wary stablemaster.
+The player is trying to rescue a kidnapped noble discreetly.
+The player is trying to retrieve a confiscated item from a jailer.
+The player is trying to retrieve a family heirloom from a pawn broker.
+The player is trying to retrieve a message from a guarded pigeon roost.
+The player is trying to retrieve a soul from a spirit realm.
+The player is trying to retrieve an offering stolen from a sacred altar.
+The player is trying to sell a stolen relic to a museum curator.
+The player is trying to silence a witness who saw too much.
+The player is trying to smuggle a fugitive past a border inspector.
+The player is trying to smuggle a fugitive past a checkpoint.
+The player is trying to sneak past a sentient magical ward.
+The player is trying to speak to a loved one’s ghost.
+The player is trying to steal an artifact with an inside man.
+The player is trying to stop a duel between two nobles.
+The player is trying to stop a mercenary from taking a contract.
+The player is trying to stop a war council from starting battle.
+The player is trying to summon a demon with a reluctant warlock.
+The player is trying to sway a village vote in their favor.
+The player is trying to talk their way out of paying a toll.
+The player is trying to tame a magical beast through its handler.
+The player is trying to track an informant who went silent.
+The player is trying to trade a rare artifact for safe conduct.
+The player is trying to trick a knight into making a false vow.
+The player is trying to trick a rival knight into abandoning a duel.
+The player is trying to uncover a smuggler’s route from a dockworker.
+The player is trying to undo a werewolf curse.
+The player is trying to win back trust from a betrayed ally.
+The player is trying to win favor with a noble by offering a rare gift.
+The player is trying to win over a skeptical town council member.
+The player is trying to win over a suspicious village head.
+The player is warning a caravan about an ambush.
+The player is warning a caravan master of an ambush ahead.
+The player is warning a fishing village of a sea monster’s return.
+The player is warning a mayor of an impending invasion.
+The player is warning a traveling merchant caravan of danger ahead.
+The player is warning a village elder of an approaching threat.
+The player is warning a village of an incoming raid.
+The player wants to gain entry to a forbidden section of the library.
+The player wants to hire a bard to spread rumors.
+The player wants to rent an airship from a skeptical sky captain.
+The player is accusing a high-ranking cleric of corruption.
+The player is accusing a local noble of treason without proof.
+The player is accusing a merchant of selling counterfeit goods.
+The player is accusing a merchant of selling cursed items.
+The player is accusing a noble of plotting a coup.

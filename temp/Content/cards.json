@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Zakharat",
+    "text": "Zakharat is A coastal city, known for it's ports and important role in the trading lanes. it's ruler is Lady Ashara, an old but wise noble woman. the city is based in the southern part of the kingdom",
+    "tags": "city, Zakharat, kingdom"
+  },
+  {
+    "title": "Lady Ashara",
+    "text": "Lady Ashara is the last member of the ancient family of Zeen. in her youth, her beauty and now, her wisdom Is known to all",
+    "tags": "person, Ashara"
+  },
+  {
+    "title": "Blackmoor",
+    "text": "Blackmoor is a fortified city in the northern highlands, known for its imposing stone walls and harsh winters. Ruled by Lord Cedric the Stern, it serves as a key defensive stronghold against barbarian raids. The city is home to skilled blacksmiths and hardy warriors.",
+	"tags": "city, Blackmoor, northern, fortress"
+  },
+  {
+    "title": "Sir Alistair the Red",
+    "text": "Sir Alistair the Red is a famed knight known for his crimson armor and unmatched skill in single combat. Once a champion of the royal tournaments, he now serves as the king's personal bodyguard. Rumors say he slew a rogue knight in a duel that lasted three hours.",
+    "tags": "person, knight, Alistair, warrior"
+  },
+  {
+    "title": "The Siege of Veldros",
+    "text": "The Siege of Veldros is a brutal three-month siege where the rebel lord Maldred attempted to overthrow King Edric I. The king's forces held the castle despite starvation and treachery, leading to Maldred's execution. This event solidified the crown's authority.",
+    "tags": "event, war, siege, Veldros"
+  },
+  {
+    "title": "Silverhaven",
+    "text": "Silverhaven is a wealthy city built around rich silver mines. Governed by the Merchant Lords, it thrives on trade and craftsmanship. The city's grand forges produce the finest arms and jewelry in the kingdom.",
+    "tags": "city, Silverhaven, trade, mines"
+  },
+  {
+    "title": "Mother Elspeth",
+    "text": "Mother Elspeth is an elderly healer and midwife, revered by commonfolk for her wisdom and kindness. She runs a small infirmary in the Zakharat and is said to know ancient remedies. Some whisper she has minor prophetic dreams.",
+    "tags": "person, healer, Elspeth, wise"
+  },
+  {
+    "title": "Duskwatch",
+    "text": "Duskwatch is a gloomy town built near the haunted Whispering Woods. Its people are superstitious and wary of outsiders. The local lord, Varian Crowe, enforces strict curfews, fearing unseen dangers in the night.",
+    "tags": "city, Duskwatch, haunted, woods"
+  },
+  {
+    "title": "Brother Tomas the Chronicler",
+    "text": "Brother Tomas the Chronicler, is a monk tasked with recording the kingdom's history. He travels from town to town, collecting tales and verifying facts. Some say his records contain hidden truths the nobility would rather keep buried. He was last seen in Zakharat",
+    "tags": "person, monk, historian, Tomas"
+  },
+  {
+    "title": "The Betrayal at Greymarch",
+    "text": "The Betrayal at Greymarch is battle where Duke Harald's forces turned on their allies, allowing an invading army to breach the kingdom's defenses. The duke was later executed, and his family stripped of titles. The event remains a cautionary tale about loyalty.",
+    "tags": "event, betrayal, war, Greymarch"
+  },
+  {
+    "title": "The Sentinel’s Tower",
+    "text": "The Sentinel’s Tower, is an ancient watchtower standing atop the Cliffs of Mourning, near Zakharat. No one remembers who built it, but it has never fallen, even in the fiercest storms. Some claim its stones are imbued with old magic.",
+    "tags": "landmark, tower, Sentinel, ruins"
+  }
+]

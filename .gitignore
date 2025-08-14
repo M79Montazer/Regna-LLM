@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Launcher/bin
+/Launcher/obj
+/Launcher/Properties/PublishProfiles
+/temp/.config
+/temp/bin
+/temp/obj
+/temp/Properties
+/temp/appsettings.Development.json
+/temp/appsettings.json
+/temp/game.db
+/game.db
+/sqlite3.exe
+/temp/Service/EmbeddingTest.cs
+/Regna_RPG/Regna_FSM/Regna_RPG
+/phase 1/.ipynb_checkpoints
